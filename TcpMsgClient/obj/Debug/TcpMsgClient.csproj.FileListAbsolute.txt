@@ -1,0 +1,55 @@
+c:\users\administrator\documents\visual studio 2012\Projects\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.FrmClient.resources
+c:\users\administrator\documents\visual studio 2012\Projects\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.exe
+c:\users\administrator\documents\visual studio 2012\Projects\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.pdb
+C:\Users\BBoy\Desktop\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe.config
+C:\Users\BBoy\Desktop\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.exe
+C:\Users\BBoy\Desktop\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.pdb
+C:\Users\BBoy\Desktop\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe
+C:\Users\BBoy\Desktop\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.pdb
+C:\Users\BBoy\Desktop\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.FrmClient.resources
+C:\Users\BBoy\Desktop\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Properties.Resources.resources
+C:\Users\BBoy\Desktop\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.csproj.GenerateResource.Cache
+C:\E盘(文件)\Study\2019大三上\C#\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe.config
+C:\E盘(文件)\Study\2019大三上\C#\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.exe
+C:\E盘(文件)\Study\2019大三上\C#\TCPServerAndClient\TCPServerAndClient\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.pdb
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe.config
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.exe
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.pdb
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.pdb
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Properties.Resources.resources
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.csproj.GenerateResource.Cache
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Form_Main.resources
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Form_Platform.resources
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Form_QueryRecord.resources
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.TimingMessageBox.resources
+C:\Users\Yimning\Desktop\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.csprojResolveAssemblyReference.cache
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe.config
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.exe
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.pdb
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.pdb
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.csprojResolveAssemblyReference.cache
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Form_Main.resources
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Form_Platform.resources
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Form_QueryRecord.resources
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Properties.Resources.resources
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.TimingMessageBox.resources
+C:\Users\Yimning\Desktop\基于ESP8266的仓库防火防潮监测报警应用系统\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.csproj.GenerateResource.Cache
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe.config
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.exe
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.pdb
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.exe
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\bin\Debug\TcpMsgClient.pdb
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.csprojResolveAssemblyReference.cache
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Form_Main.resources
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Form_Platform.resources
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Form_QueryRecord.resources
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.Properties.Resources.resources
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.TimingMessageBox.resources
+C:\Users\Yimning\Desktop\基于ESP8266WiFi的仓库防火防潮监测报警应用系统的设计与实现\上位机\TcpMsgClient\TcpMsgClient\obj\Debug\TcpMsgClient.csproj.GenerateResource.Cache
